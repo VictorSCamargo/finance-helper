@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+*.local
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Logs and env
+*.log
+.env
+.env.*
+!.env.example
+
+# OCR leftovers / personal files
+*.traineddata
+.personal
